@@ -1,0 +1,3 @@
+Task: The given dataset contains detials about organic chemical compounds including their chemical features, isomeric conformation, names and the classes in which they are classified. The compounds are classified as either "MUSK" or "NON- MUSK" compounds. 
+Your task is to build a classification model on the given data using Machine Learning or Deep Learning apporaches. The data has to be split in a 80:20 ration for training and validation datasets. you can perform whatever preprocessing and post- processing operations
+on the data that maya help you improve the performance of your model.  
